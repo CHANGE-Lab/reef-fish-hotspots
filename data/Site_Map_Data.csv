@@ -1,0 +1,7 @@
+site,abbrev,lat,long,restored,protect_stat,dim,buoy,grids,total surveys,algae
+Grecian,GR1,25.1099,-80.3035,Y,Y,30x80,grecian rocks 12,96,6,0
+NDR,NDR1,25.1306,-80.2943,Y,N,30x80,North Dry Rocks 3,96,6,1
+Carysfort,CR1,25.2216,-80.2099,Y,Y,50x50,Carysfort Reef 4,100,6,1
+Grecian Control,GR2,25.1089,-80.3061,N,Y,30x80,grecian rocks 2,96,5,0
+NDR Control,NDR2,25.132,-80.2883,N,N,30x80,Pin for anchor spot,96,6,0
+Carysfort Control,CR2,25.227698,-80.210446,N,Y,50x50,Carysfort Reef 6,100,6,0

@@ -1,0 +1,104 @@
+﻿Outplant Date,# Outplanted Corals,Monitoring Date,Reef Site,Mooring # Anchor,Species,Genotype,Genotype_NEW,Cluster #,Cow Tag,Coral Letter,"# Corals Alive
+(living tissue)","# Corals Dead 
+(no living tissue)",Fusion,Max Diameter (cm),% Mortality,"Bleaching 
+(N, P, PB, BL)","Disease
+(WB, RTL, WPX, UK) ","Predation 
+(S, FW, D)","Competitors 
+(A, Sp, T, Z, O)","Other 
+(B, Sed)",Comments,Notes,1 Month or 1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U3,Acer-055,136,149,A,9,0,F,22,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U3,Acer-055,136,149,B,9,0,F,30,0,N,N,N,A,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U3,Acer-055,136,149,A,10,0,NF,15,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U3,Acer-055,136,149,B,10,0,NF,24,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,11,3/25/2020,North Dry Rocks,3,A. cervicornis,U8,Acer-019,97,150,A,11,0,NF,16,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,11,3/25/2020,North Dry Rocks,3,A. cervicornis,U8,Acer-019,97,150,B,11,0,NF,29,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,11,7/9/2019,North Dry Rocks,3,A. cervicornis,U8,Acer-019,97,150,A,11,0,NF,14,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,11,7/9/2019,North Dry Rocks,3,A. cervicornis,U8,Acer-019,97,150,B,11,0,NF,13,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U4,Acer-010,111,143,A,4,5,NF,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U4,Acer-010,111,143,B,4,5,NF,17,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U4,Acer-010,111,143,A,10,0,NF,17,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U4,Acer-010,111,143,B,10,0,NF,14,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U8,Acer-019,98,144,A,7,3,NF,13,100,NA,NA,NA,NA,NA,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U8,Acer-019,98,144,B,7,3,NF,16,10,N,N,"FW,S",N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U8,Acer-019,98,144,A,10,0,NF,12,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U8,Acer-019,98,144,B,10,0,NF,17,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,12,3/25/2020,North Dry Rocks,3,A. cervicornis,U9,Acer-014,136,145,A,10,0,F,27,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,12,3/25/2020,North Dry Rocks,3,A. cervicornis,U9,Acer-014,136,145,B,10,0,F,28,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,12,7/9/2019,North Dry Rocks,3,A. cervicornis,U9,Acer-014,136,145,A,12,0,NF,20,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,12,7/9/2019,North Dry Rocks,3,A. cervicornis,U9,Acer-014,136,145,B,12,0,NF,17,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U4,Acer-010,110,142,A,8,0,NF,24,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U4,Acer-010,110,142,B,8,0,NF,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U4,Acer-010,110,142,A,10,0,NF,16,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U4,Acer-010,110,142,B,10,0,NF,15,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,A,7,0,F,17,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,B,7,0,F,15,0,N,N,N,A,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,A,10,0,NF,11,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,B,10,0,NF,13,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,A,7,0,F,28,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,B,7,0,F,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,A,10,0,NF,19,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,B,10,0,NF,21,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,A,8,0,F,19,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,B,8,0,F,19,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,A,10,0,NF,13,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,B,10,0,NF,10,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,A,8,1,NF,12,50,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,B,8,1,NF,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,A,9,0,NF,18,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,B,9,0,NF,,,NA,NA,NA,NA,NA,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,A,7,0,F,17,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,B,7,0,F,15,0,N,N,N,A,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,A,10,0,NF,11,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,169,118,B,10,0,NF,13,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,A,7,0,F,28,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,B,7,0,F,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,A,10,0,NF,19,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,126,119,B,10,0,NF,21,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,K2,Acer-008,433,120,A,8,0,NF,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,K2,Acer-008,433,120,B,8,0,NF,22,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,K2,Acer-008,433,120,A,10,0,NF,,,NA,NA,NA,NA,NA,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,K2,Acer-008,433,120,B,10,0,NF,18,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,A,8,0,F,19,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,B,8,0,F,19,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,A,10,0,NF,13,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,170,121,B,10,0,NF,10,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,A,8,1,NF,12,50,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,B,8,1,NF,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,A,9,0,NF,18,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,128,122,B,9,0,NF,,,NA,NA,NA,NA,NA,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,K2,Acer-008,432,123,A,7,0,F,19,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,K2,Acer-008,432,123,B,7,0,F,23,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,K2,Acer-008,432,123,A,9,0,F,20,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,K2,Acer-008,432,123,B,9,0,F,15,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,171,124,A,4,5,NF,12,100,NA,NA,NA,NA,NA,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U44,Acer-066,171,124,B,4,5,NF,10,100,NA,NA,NA,NA,NA,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,171,124,A,10,0,NF,15,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U44,Acer-066,171,124,B,10,0,NF,14,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,127,125,A,10,0,NF,23,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U17,Acer-060,127,125,B,10,0,NF,26,0,N,N,S,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,127,125,A,10,0,NF,18,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U17,Acer-060,127,125,B,10,0,NF,13,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,K2,Acer-008,434,126,A,9,1,NF,11,50,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,K2,Acer-008,434,126,B,9,1,NF,24,0,N,N,N,A,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,K2,Acer-008,434,126,A,9,0,NF,,,NA,NA,NA,NA,NA,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,K2,Acer-008,434,126,B,9,0,NF,19,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U21,Acer-061,39,132,A,10,0,NF,33,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U21,Acer-061,39,132,B,10,0,NF,28,0,N,N,N,Sp,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U21,Acer-061,39,132,A,10,0,NF,18,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U21,Acer-061,39,132,B,10,0,NF,18,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U3,Acer-055,135,133,A,8,0,F,27,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U3,Acer-055,135,133,B,8,0,F,22,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U3,Acer-055,135,133,A,10,0,NF,19,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U3,Acer-055,135,133,B,10,0,NF,20.5,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U3,Acer-055,137,134,A,9,0,F,,,NA,NA,NA,NA,NA,no tag,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U3,Acer-055,137,134,B,9,0,F,28,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U3,Acer-055,137,134,A,11,0,NF,17,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U3,Acer-055,137,134,B,11,0,NF,15,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U19,Acer-020,116,135,A,10,0,NF,21,0,N,N,N,N,Sed,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U19,Acer-020,116,135,B,10,0,NF,23,0,N,N,N,N,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U19,Acer-020,116,135,A,10,0,NF,,,NA,NA,NA,NA,NA,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U19,Acer-020,116,135,B,10,0,NF,14.5,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U21,Acer-061,40,136,A,10,0,F,20,0,N,N,N,A,N,,NOAA YR 3,1 Year
+5/13/2019,10,3/25/2020,North Dry Rocks,3,A. cervicornis,U21,Acer-061,40,136,B,10,0,F,18,9,N,N,N,A,N,,NOAA YR 3,1 Year
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U21,Acer-061,40,136,A,10,0,NF,17,0,N,N,N,N,N,,NOAA YR 3,1 Month
+5/13/2019,10,7/9/2019,North Dry Rocks,3,A. cervicornis,U21,Acer-061,40,136,B,10,0,NF,,,NA,NA,NA,NA,NA,,NOAA YR 3,1 Month

@@ -1,0 +1,196 @@
+,common_name,species_name,genus,family,order,max_length,trophic_level,a,b,trophic_group,log a,L inf,L-W parameter source,L-W region
+1,Ocean Surgeonfish,Acanthurus bahianus,Acanthurus,Acanthuridae,Perciformes,38,2,0.0236,2.9752,Herbivore,-4.6005,38,Bohnsack & Harper 1988,S Florida
+2,Doctorfish,Acanthurus chirurgus,Acanthurus,Acanthuridae,Perciformes,39,2,0.0041,3.5328,Herbivore,-5.9255,39,Bohnsack & Harper 1988,S Florida
+3,Blue Tang,Acanthurus coeruleus,Acanthurus,Acanthuridae,Perciformes,39,2,0.0305,3,Herbivore,-4.2165,39,FishBase,St Croix
+4,Barred Cardinalfish,Apogon binotatus,Apogon,Apogonidae,Perciformes,13,3.4,0.0141,3.1286,Planktivore,NA,13,FishBase,mean for genus
+5,Flamefish,Apogon maculatus,Apogon,Apogonidae,Perciformes,11,3.4,0.0157,3.073,Invertivore,NA,11,FishBase,S Florida
+6,Silverside,Atherinomorus sp.,Atherinomorus,Atherinidae,Atheriniformes,10,3.4,0.0079,3.1938,Planktivore,-4.8409,10,FishBase,Mean for Genus
+7,Trumpetfish,Aulostomus maculatus,Aulostomus,Aulostomidae,Syngnathiformes,100,4.3,0.004,2.8657,Carnivore,-5.2686,100,Bohnsack & Harper 1988,S Florida
+8,Grey Triggerfish,Balistes capriscus,Balistes,Balistidae,Tetraodontiformes,60,3.5,0.0192,2.36,Invertivore,NA,60,FishBase,Columbia
+9,Queen Triggerfish,Balistes vetula,Balistes,Balistidae,Tetraodontiformes,60,3.4,0.0864,2.78,Invertivore,NA,60,FishBase,USVI
+10,Ocean Triggerfish,Canthidermis sufflamen,Canthidermis,Balistidae,Tetraodontiformes,65,3.2,0.0176,3.055,Invertivore,NA,65,Bohnsack & Harper,S Florida
+11,Barred Blenny,Hypleurochilus bermudensis,Hypleurochilus,Blenniidae,Perciformes,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,Seaweed Blenny,Parablennius marmoreus,Parablennius,Blenniidae,Perciformes,9,NA,0.0109,3.0249,Omnivore,NA,9,FishBase,Mean for Genus
+13,Peacock Flounder,Bothus lunatus,Bothus,Bothidae,Pleuronectiformes,46,4.5,0.0098,3.1894,Carnivore,-5.1974,46,Bohnsack & Harper 1988,S Florida
+14,Lancer dragonet,Callionymus bairdi,Callionymus,Callionymidae,Perciformes,11,NA,0.023,3.121,Carnivore,NA,11,Bohnsack & Harper,S Florida
+15,Florida Pompano,Trachinotus carolinus,Alectis,Carangidae,Perciformes,150,3.8,0.0275,2.75,Carnivore,NA,150,NA,NA
+16,Bar Jack,Carangoides ruber,Carangoides,Carangidae,Perciformes,59,3.8,0.018,2.99,Carnivore,-5.3687,59,FishBase,Cuba
+17,Yellow Jack,Caranx bartholomaei,Caranx,Carangidae,Perciformes,100,4.5,0.034,2.84,Piscivore,-4.4953,100,FishBase,Cuba
+18,Blue Runner,Caranx crysos,Caranx,Carangidae,Perciformes,70,4.4,0.0524,2.69,Piscivore,-3.9699,70,Bohnsack & Harper,S Florida
+19,Permit,Trachinotus falcatus,Trachinotus,Carangidae,Perciformes,122,3.2,0.0531,2.803,Carnivore,NA,122,Bohnsack & Harper 1988,S Florida
+20,Lemon Shark,Negaprion brevirostris,Negaprion,Carcharhinidae,Carcharhiniformes,240,NA,0.0053,3.16,Carnivore,NA,NA,NA,NA
+21,Roughhead Blenny,Acanthemblemaria aspera,Acanthemblemaria,Chaenopsidae,Perciformes,4,3.1,0.0077,2.962,Invertivore,NA,4,FishBase,n=1
+22,Papillose Blenny,Acanthemblemaria chaplini,Acanthemblemaria,Chaenopsidae,Perciformes,4,NA,0.0077,2.962,Invertivore,NA,4,FishBase,mean for genus
+23,Secretary Blenny,Acanthemblemaria maria,Acanthemblemaria,Chaenopsidae,Perciformes,5,NA,0.0077,2.96,Invertivore,NA,5,FishBase,Mean for Genus
+24,Blackhead Blenny,Emblemariopsis bahamensis,Emblemariopsis,Chaenopsidae,Perciformes,NA,NA,0.0077,2.962,NA,NA,NA,NA,NA
+25,Wrasse Blenny,Hemiemblemaria simulus,Hemiemblemaria,Chaenopsidae,Perciformes,10,3.7,0.0077,2.962,Carnivore,NA,10,FishBase,mean for Family
+26,Foureye Butterflyfish,Chaetodon capistratus,Chaetodon,Chaetodontidae,Perciformes,8,3.2,0.047,2.86,Invertivore,-3.0577,8,FishBase,Cuba
+27,Spotfin Butterflyfish,Chaetodon ocellatus,Chaetodon,Chaetodontidae,Perciformes,20,3.2,0.0318,2.984,Invertivore,NA,20,FishBase,S Florida
+28,Reef Butterflyfish,Chaetodon sedentarius,Chaetodon,Chaetodontidae,Perciformes,15,2.8,0.0251,3.076,Omnivore,NA,15,FishBase,S Florida
+29,Banded Butterflyfish,Chaetodon striatus,Chaetodon,Chaetodontidae,Perciformes,16,3.2,0.0222,3.14,Invertivore,-3.9077,16,FishBase,Southern Florida
+30,Redspotted Hawkfish,Amblycirrhitus pinos,Amblycirrhitus,Cirrhitidae,Perciformes,10,3.2,0.0026,3.4566,Invertivore,-6.0169,10,Bohnsack & Harper 1988,S Florida
+31,Southern Stingray,Hypanus americanus,Dasyatidae,Myliobatiformes,Elasmobranchii,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,Balloonfish,Diodon holocanthus,Diodon,Diodontidae,Tetraodontiformes,50,3.3,0.0219,3,Invertivore,-3.8213,50,FishBase,S Florida
+33,Porcupinefish,Diodon hystrix,Diodon,Diodontidae,Tetraodontiformes,91,3.3,0.533,2.276,Invertivore,NA,91,FishBase,S Florida
+34,Atlantic Spadefish,Chaetodipterus faber,Chaetodipterus,Ephippidae,Perciformes,91,3.1,0.0591,2.26,Omnivore,NA,91,FishBase,Columbia
+35,Yellowfin Mojarra,Gerres cinereus,Gerres,Gerreidae,Perciformes,41,3.3,0.0147,3.12,Invertivore,-1.8326,41,FishBase,Cuba
+36,Nurse Shark,Ginglymostoma cirratum,Ginglymostoma,Ginglymostomatidae,Orectolobiformes,430,3.8,0.0105,2.8918,Carnivore,-4.8681,430,Bohnsack & Harper 1988,S Florida
+37,Colon Goby,Coryphopterus dicrus,Coryphopterus,Gobiidae,Perciformes,5,2.5,0.0213,2.2835,Omnivore,NA,5,FishBase,Mean for Genus
+38,Pallid Goby,Coryphopterus eidolon,Coryphopterus,Gobiidae,Perciformes,6,2.1,0.0213,2.2835,Herbivore,NA,6,FishBase,Mean for Genus
+39,Bridled Goby,Coryphopterus glaucofraenum,Coryphopterus,Gobiidae,Perciformes,8,2.7,0.0345,2.68,Omnivore,NA,8,FishBase,Cuba
+40,Peppermint Goby,Coryphopterus lipernes,Coryphopterus,Gobiidae,Perciformes,3,NA,0.0213,2.2835,Omnivore,NA,3,FishBase,Mean for Genus
+41,Masked Goby,Coryphopterus personatus,Coryphopterus,Gobiidae,Perciformes,4,2.7,0.0213,2.8235,Planktivore,-3.849,4,FishBase,Mean for Genus
+42,Dash Goby,Ctenogobius saepepallens,Ctenogobius,Gobiidae,Perciformes,5,3.4,0.0101,3.0171,Invertivore,NA,5,FishBase,Mean for Family
+43,Orangesided Goby,Elacatinus dilepis,Elacatinus,Gobiidae,Perciformes,NA,3.4,0.008,3.137,NA,NA,NA,NA,NA
+44,Sharknose Goby,Elacatinus evelynae,Elacatinus,Gobiidae,Perciformes,4,3.4,0.008,3.137,Invertivore,NA,4,FishBase,Mean for Genus
+45,Cleaning Goby,Elacatinus genie,Elacatinus,Gobiidae,Perciformes,5,NA,0.008,3.14,Invertivore,NA,5,FishBase,Mean for Genus
+46,Tiger Goby,Elacatinus macrodon,Elacatinus,Gobiidae,Perciformes,NA,NA,0.008,3.137,Invertivore,NA,NA,NA,NA
+47,Neon Goby,Elacatinus oceanops,Elacatinus,Gobiidae,Perciformes,5,3.5,0.008,3.137,Invertivore,NA,5,FishBase,S Florida
+48,Broadstripe Goby,Elacatinus prochilos,Elacatinus,Gobiidae,Perciformes,NA,NA,0.008,3.137,Invertivore,NA,NA,NA,NA
+49,Goldspot Goby,Gnatholepis thompsoni,Gnatholepis,Gobiidae,Perciformes,8,2.3,0.0035,3.766,Omnivore,NA,8,FishBase,"S Florida, n=9"
+50,Fairy Basslet,Gramma loreto,Gramma,Grammatidae,Perciformes,8,3.3,0.016,3,Invertivore,NA,8,FishBase,mean for fusiform
+51,Black Margate,Anisotremus surinamensis,Anisotremus,Haemulidae,Perciformes,76,3.3,0.0233,3.01,Invertivore,-3.7593,76,FishBase,Jamaica
+52,Porkfish,Anisotremus virginicus,Anisotremus,Haemulidae,Perciformes,41,3.4,0.0148,3.167,Invertivore,-4.2131,41,Bohnsack & Harper,Southern Florida
+53,White Margate,Haemulon album,Haemulon,Haemulidae,Perciformes,79,3.2,0.014,3.09,Invertivore,-4.8186,79,FishBase,Cuba
+54,Tomtate,Haemulon aurolineatum,Haemulon,Haemulidae,Perciformes,25,3.2,0.01,3.2077,Invertivore,-5.2081,25,Bohnsack & Harper 1988,S Florida
+55,Caesar Grunt,Haemulon carbonarium,Haemulon,Haemulidae,Perciformes,36,3.3,0.0404,2.74,Invertivore,NA,36,FishBase,Jamaica
+56,Smallmouth Grunt,Haemulon chrysargyreum,Haemulon,Haemulidae,Perciformes,23,3.4,0.0106,3.047,Invertivore,-2.5578,23,Bohnsack & Harper 1988,S Florida
+57,French Grunt,Haemulon flavolineatum,Haemulon,Haemulidae,Perciformes,30,3.3,0.0211,3,Invertivore,NA,30,FishBase,Puerto Rico
+58,Cottonwick,Haemulon melanurum,Haemulon,Haemulidae,Perciformes,33,3.5,0.0226,2.9527,Invertivore,-4.5993,33,Bohnsack & Harper 1988,S Florida
+59,Sailors Choice,Haemulon parra,Haemulon,Haemulidae,Perciformes,41,3.4,0.0121,2.9932,Invertivore,-4.6947,41,Bohnsack & Harper 1988,S Florida
+60,White Grunt,Haemulon plumierii,Haemulon,Haemulidae,Perciformes,53,3.5,0.0121,3.1612,Invertivore,-5.0781,53,Bohnsack & Harper 1988,S Florida
+61,Bluestriped Grunt,Haemulon sciurus,Haemulon,Haemulidae,Perciformes,46,3.4,0.0194,2.9996,Invertivore,-4.7114,46,Bohnsack & Harper 1988,S Florida
+62,Grunt unid. Species,Haemulon sp.,Haemulon,Haemulidae,Perciformes,79,3.4,0.0121,3.1581,Invertivore,-5.0428,79,Bohnsack & Harper 1988,S Florida
+63,Striped Grunt,Haemulon striatum,Haemulon,Haemulidae,Perciformes,28,NA,0.0175,3.0988,Planktivore,-4.8564,28,Bohnsack & Harper 1988,S Florida
+64,Squirrelfish,Holocentrus adscensionis,Holocentrus,Holocentridae,Beryciformes,61,3.5,0.0198,3,Invertivore,NA,61,Bohnsack & Harper,S Florida
+65,Longspine Squirrelfish,Holocentrus rufus,Holocentrus,Holocentridae,Beryciformes,35,3.5,0.015,3.059,Invertivore,NA,35,Bohnsack & Harper,S Florida
+66,Blackbar Soldierfish,Myripristis jacobus,Myripristis,Holocentridae,Beryciformes,25,3.6,0.0311,2.72,Invertivore,NA,25,FishBase,Columbia
+67,Bermuda Chub,Kyphosus sectatrix,Kyphosus,Kyphosidae,Perciformes,76,2,0.0174,3.0801,Herbivore,-4.8397,76,Bohnsack & Harper 1988,S Florida
+68,Chub sp.,Kyphosus sp.,Kyphosus,Kyphosidae,Perciformes,76,2,0.0174,3.08,Herbivore,NA,76,Bohnsack & Harper,S Florida
+69,Spanish Hogfish,Bodianus rufus,Bodianus,Labridae,Perciformes,40,3.4,0.0145,3.0532,Invertivore,-4.8936,40,Bohnsack & Harper 1988,S Florida
+70,Creole Wrasse,Clepticus parrae,Clepticus,Labridae,Perciformes,30,3.3,0.0141,3.0081,Planktivore,-4.2616,30,Fishbase,Mean for Family
+71,Slippery Dick,Halichoeres bivittatus,Halichoeres,Labridae,Perciformes,35,3.5,0.0134,2.9391,Invertivore,-4.8117,35,Bohnsack & Harper 1988,S Florida
+72,Yellowhead Wrasse,Halichoeres garnoti,Halichoeres,Labridae,Perciformes,19,3.5,0.0052,3.3747,Invertivore,-5.6591,19,Bohnsack & Harper 1988,S Florida
+73,Clown Wrasse,Halichoeres maculipinna,Halichoeres,Labridae,Perciformes,18,3.3,0.0028,3.6932,Invertivore,-6.2524,18,Bohnsack & Harper 1988,S Florida
+74,Rainbow Wrasse,Halichoeres pictus,Halichoeres,Labridae,Perciformes,13,3.5,0.0126,3.0673,Invertivore,-4.37406,13,Fishbase,Mean for Genus
+75,Blackear Wrasse,Halichoeres poeyi,Halichoeres,Labridae,Perciformes,20,3.4,0.0126,3.0673,Invertivore,NA,20,FishBase,Mean for Genus
+76,Puddingwife,Halichoeres radiatus,Halichoeres,Labridae,Perciformes,51,3.3,0.0131,3.0382,Invertivore,-4.9221,51,Bohnsack & Harper 1988,S Florida
+77,Hogfish,Lachnolaimus maximus,Lachnolaimus,Labridae,Perciformes,91,3.5,0.0203,2.988,Invertivore,-4.6801,91,Bohnsack & Harper 1988,S Florida
+78,Bluehead Wrasse,Thalassoma bifasciatum,Thalassoma,Labridae,Perciformes,25,3.3,0.0107,2.9162,Planktivore,-4.8865,25,Bohnsack & Harper 1988,S Florida
+79,Green Razorfish,Xyrichtys splendens,Xyrichtys,Labridae,Perciformes,18,3.1,0.01,2.9995,Invertivore,-5.0012,18,Bohnsack & Harper 1988,S Florida
+80,Rosy Blenny,Malacoctenus macropus,Malacoctenus,Labrisomidae,Perciformes,6,NA,0.0341,2.72,Invertivore,NA,6,FishBase,"Cuba, n=23"
+81,Saddled Blenny,Malacoctenus triangulatus,Malacoctenus,Labrisomidae,Perciformes,8,3.5,0.0089,2.3791,Invertivore,-3.868,8,Bohnsack & Harper 1988,S Florida
+82,Mutton Snapper,Lutjanus analis,Lutjanus,Lutjanidae,Perciformes,94,3.8,0.0161,3.0112,Carnivore,-4.803,94,Bohnsack & Harper 1988,S Florida
+83,Schoolmaster,Lutjanus apodus,Lutjanus,Lutjanidae,Perciformes,67,4.1,0.0194,2.9779,Carnivore,-4.6909,67,Bohnsack & Harper 1988,S Florida
+84,Blackfin Snapper,Lutjanus buccanella,Lutjanus,Lutjanidae,Perciformes,75,3.9,0.0747,2.735,Piscivore,NA,75,FishBase,USVI
+85,Grey Snapper,Lutjanus griseus,Lutjanus,Lutjanidae,Perciformes,89,4.2,0.0232,2.8809,Carnivore,-4.515,89,Bohnsack & Harper 1988,S Florida
+86,Mahogany Snapper,Lutjanus mahogoni,Lutjanus,Lutjanidae,Perciformes,48,4.4,0.0428,2.719,Carnivore,-4.087,48,Bohnsack & Harper 1988,S Florida
+87,Lane Snapper,Lutjanus synagris,Lutjanus,Lutjanidae,Perciformes,60,3.8,0.0517,2.64,Carnivore,NA,60,FishBase,Cuba
+88,Yellowtail Snapper,Ocyurus chrysurus,Ocyurus,Lutjanidae,Perciformes,86,3.9,0.0405,2.718,Planktivore,-4.1108,86,Bohnsack & Harper 1988,S Florida
+89,Sand Tilefish,Malacanthus plumieri,Malacanthus,Malacanthidae,Perciformes,70,3.6,0.027,2.629,Carnivore,-4.1981,70,Bohnsack & Harper 1988,S Florida
+90,Scrawled Filefish,Aluterus scriptus,Aluterus,Monacanthidae,Tetraodontiformes,110,2.8,0.0022,3,Omnivore,NA,110,FishBase,S Florida
+91,Whitespotted Filefish,Cantherhines macrocerus,Cantherhines,Monacanthidae,Tetraodontiformes,46,3,0.0561,2.653,Omnivore,-2.8802,46,FishBase,Southern Florida
+92,Orangespotted Filefish,Cantherhines pullus,Cantherhines,Monacanthidae,Tetraodontiformes,20,2.6,0.0683,2.563,Omnivore,-2.6838,20,FishBase,Southern Florida
+93,Slender Filefish,Monacanthus tuckeri,Monacanthus,Monacanthidae,Tetraodontiformes,10,2.7,0.0402,2.685,Omnivore,NA,10,NA,NA
+94,Yellow Goatfish,Mulloidichthys martinicus,Mulloidichthys,Mullidae,Perciformes,39,3.2,0.0207,3,Invertivore,-3.8776,39,FishBase,USVI
+95,Spotted Goatfish,Pseudupeneus maculatus,Pseudupeneus,Mullidae,Perciformes,30,3.5,0.0229,2.958,Invertivore,-3.7767,30,FishBase,Puerto Rico
+96,Chain Moray,Echidna catenata,Echidna,Muraenidae,Anguilliformes,165,3.5,0.0012,3.1577,Carnivore,-6.1561,165,Bohnsack & Harper 1988,S Florida
+97,Viper Moray/Mulatto Conger,Enchelycore nigricans,Enchelycore,Muraenidae,Anguilliformes,100,NA,0.0017,3,Carnivore,NA,100,FishBase,n=1
+98,Green Moray,Gymnothorax funebris,Gymnothorax,Muraenidae,Anguilliformes,250,4,0.0041,2.856,Carnivore,-5.2443,250,Bohnsack & Harper 1988,S Florida
+99,Goldentail Moray,Gymnothorax miliaris,Gymnothorax,Muraenidae,Anguilliformes,70,3.9,0.01,2.574,Carnivore,-6.1561,70,Bohnsack & Harper 1988,S Florida
+100,Spotted Moray,Gymnothorax moringa,Gymnothorax,Muraenidae,Anguilliformes,200,4.5,0.01,3.1577,Piscivore,-6.1561,200,Bohnsack & Harper 1988,S Florida
+101,Purplemouth Moray,Gymnothorax vicinus,Gymnothorax,Muraenidae,Anguilliformes,122,4.3,0.0043,2.8761,Carnivore,-5.2478,122,Bohnsack & Harper 1988,S Florida
+102,Yellowhead Jawfish,Opistognathus aurifrons,Opistognathus,Opistognathidae,Perciformes,10,3.1,0.0119,2.995,Planktivore,NA,10,FishBase,Mean for Genus
+103,Jawfish species,Opistognathus sp.,Opistognathus,Opistognathidae,Perciformes,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,Dusky Jawfish,Opistognathus whitehursti,Opistognathus,Opistognathidae,Perciformes,14,2.99,0.0093,2.99,Carnivore,NA,14,FishBase,S Florida
+105,Honeycomb Cowfish,Acanthostracion polygonius,Acanthostracion,Ostraciidae,Tetraodontiformes,50,3.4,0.0179,3,Invertivore,-4.023,50,FishBase,"Puerto Rico, n=203"
+106,Scrawled Cowfish,Acanthostracion quadricornis,Acanthostracion,Ostraciidae,Tetraodontiformes,55,3,0.153,2.25,Omnivore,NA,55,FishBase,"Cuba, n=181"
+107,Spotted Trunkfish,Lactophrys bicaudalis,Lactophrys,Ostraciidae,Tetraodontiformes,48,3.5,0.117,2.63,Omnivore,-2.1456,48,FishBase,"Gulf of Salamanca, C"
+108,Trunkfish,Lactophrys trigonus,Lactophrys,Ostraciidae,Tetraodontiformes,55,3.1,0.375,2.1,Omnivore,NA,55,FishBase,"Cuba, n=27"
+109,Smooth Trunkfish,Lactophrys triqueter,Lactophrys,Ostraciidae,Tetraodontiformes,47,3.1,0.0309,3,Invertivore,-3.477,47,Bohnsack & Harper,S Florida
+110,Spiny Lobster,Panulirus argus,Panulirus,Palinuridae,Crustacean,60,NA,0.003671,3.00056,Invertivore,NA,NA,NA,NA
+111,Glassy Sweeper,Pempheris schomburgkii,Pempheris,Pempheridae,Perciformes,15,3.1,0.0439,2.62,Planktivore,NA,15,FishBase,Cuba
+112,Blue Angelfish,Holacanthus bermudensis,Holacanthus,Pomacanthidae,Perciformes,45,3.3,0.0319,2.899,Invertivore,NA,45,Bohnsack & Harper,S Florida
+113,Queen Angelfish,Holacanthus ciliaris,Holacanthus,Pomacanthidae,Perciformes,45,3,0.0337,2.9,Invertivore,NA,45,Bohnsack & Harper,S Florida
+114,Rock Beauty,Holacanthus tricolor,Holacanthus,Pomacanthidae,Perciformes,35,3,0.0428,2.858,Invertivore,-3.1512,35,FishBase,S Florida
+115,Gray Angelfish,Pomacanthus arcuatus,Pomacanthus,Pomacanthidae,Perciformes,60,2.6,0.0345,2.968,Omnivore,NA,60,Bohnsack & Harper,S Florida
+116,French Angelfish,Pomacanthus paru,Pomacanthus,Pomacanthidae,Perciformes,41,2.8,0.0203,3.126,Omnivore,-3.8971,41,Bohnsack & Harper,S Florida
+117,Angelfish sp.,Pomacanthus sp.,Pomacanthus,Pomacanthidae,Perciformes,NA,NA,NA,NA,Omnivore,NA,NA,NA,NA
+118,Sergeant Major,Abudefduf saxatilis,Abudefduf,Pomacentridae,Perciformes,23,3.4,0.02227,3.142,Omnivore,-4.7859,23,Bohnsack & Harper 1988,Southern Florida
+119,Blue Chromis,Chromis cyanea,Chromis,Pomacentridae,Perciformes,15,3.1,0.0204,2.9595,Planktivore,-3.9021,15,FishBase,Mean for Genus
+120,Sunshine Damselfish,Chromis insolata,Chromis,Pomacentridae,Perciformes,16,3.4,0.0204,2.9595,Planktivore,-3.9021,16,FishBase,mean for Genus
+121,Brown Chromis,Chromis multilineata,Chromis,Pomacentridae,Perciformes,20,3,0.0204,2.9595,Planktivore,-3.9021,20,FishBase,mean for Genus
+122,Purple Reeffish,Chromis scotti,Chromis,Pomacentridae,Perciformes,10,3.4,0.0204,2.9595,Planktivore,-3.9021,10,FishBase,mean for Genus
+123,Yellowtail Damselfish,Microspathodon chrysurus,Microspathodon,Pomacentridae,Perciformes,21,2.1,0.0239,3.0825,Herbivore,-4.7033,21,Bohnsack & Harper 1988,S Florida
+124,Longfin Damselfish,Stegastes diencaeus,Stegastes,Pomacentridae,Perciformes,12,NA,0.0349,2.8956,Herbivore,-4.3479,12,Bohnsack & Harper 1988,S Florida
+125,Dusky Damselfish,Stegastes dorsopunicans,Stegastes,Pomacentridae,Perciformes,15,2.5,0.0349,2.8956,Herbivore,-4.3479,15,Bohnsack & Harper 1988,NA
+126,Beaugregory,Stegastes leucostictus,Stegastes,Pomacentridae,Perciformes,10,3.1,0.0303,2.8868,Herbivore,-4.4057,10,Bohnsack & Harper 1988,NA
+127,Bicolor Damselfish,Stegastes partitus,Stegastes,Pomacentridae,Perciformes,10,NA,0.0182,3.1519,Herbivore,-4.8921,10,Bohnsack & Harper 1988,NA
+128,Threespot Damselfish,Stegastes planifrons,Stegastes,Pomacentridae,Perciformes,13,NA,0.0379,2.8569,Herbivore,-4.2782,13,Bohnsack & Harper 1988,S Florida
+129,Cocoa Damselfish,Stegastes variabilis,Stegastes,Pomacentridae,Perciformes,12,NA,0.0324,2.8365,Herbivore,-4.3258,12,Bohnsack & Harper 1988,S Florida
+130,Blue dartfish,Ptereleotris calliurus,Ptereleotris,Pterelotridae,Perciformes,13,3.4,0.016,3,Planktivore,NA,13,FishBase,Fusiform
+131,Hovering Goby,Pterelotris helenae,Pterelotris,Pterelotridae,Perciformes,12,3.4,0.016,3,Planktivore,NA,12,FishBase,Fusiform
+132,Bluelip Parrotfish,Cryptotomus roseus,Cryptotomus,Scaridae,Perciformes,13,2,0.0505,3.1816,Herbivore,-4.4794,13,Bohnsack & Harper 1988,S Florida
+133,Midnight Parrotfish,Scarus coelestinus,Scarus,Scaridae,Perciformes,77,2,0.0201,3.02,Herbivore,NA,77,FishBase,"Cuba, n=41"
+134,Blue Parrotfish,Scarus coeruleus,Scarus,Scaridae,Perciformes,120,2,0.0124,3.1109,Herbivore,-5.0162,120,Bohnsack & Harper 1988,S Florida
+135,Rainbow Parrotfish,Scarus guacamaia,Scarus,Scaridae,Perciformes,120,2,0.0155,3.0626,Herbivore,-4.8714,120,Bohnsack & Harper 1988,S Florida
+136,Striped Parrotfish,Scarus iserti,Scarus,Scaridae,Perciformes,35,2,0.0166,3.0548,Herbivore,-4.8887,35,Bohnsack & Harper 1988,S Florida
+137,Princess Parrotfish,Scarus taeniopterus,Scarus,Scaridae,Perciformes,35,2,0.0177,3,Herbivore,NA,35,FishBase,USVI
+138,Queen Parrotfish,Scarus vetula,Scarus,Scaridae,Perciformes,61,2,0.0177,3.33,Herbivore,-5.5396,61,Bohnsack & Harper 1988,Florida Keys
+139,Greenblotch Parrotfish,Sparisoma atomarium,Sparisoma,Scaridae,Perciformes,25,2,0.0122,3.0275,Herbivore,-4.9446,25,Bohnsack & Harper 1988,S Florida
+140,Redband Parrotfish,Sparisoma aurofrenatum,Sparisoma,Scaridae,Perciformes,28,2,0.0047,3.4291,Herbivore,-5.7587,28,Bohnsack & Harper 1988,S Florida
+141,Redtail Parrotfish,Sparisoma chrysopterum,Sparisoma,Scaridae,Perciformes,46,2,0.0099,3.1708,Herbivore,-5.1754,46,Bohnsack & Harper 1988,S Florida
+142,Bucktooth Parrotfish,Sparisoma radians,Sparisoma,Scaridae,Perciformes,20,2,0.0162,3.0252,Herbivore,NA,20,FishBase,Mean for Genus
+143,Yellowtail Parrotfish,Sparisoma rubripinne,Sparisoma,Scaridae,Perciformes,48,2,0.0156,3.0641,Herbivore,-4.8701,48,Bohnsack & Harper 1988,"S Florida, n=2"
+144,Stoplight Parrotfish,Sparisoma viride,Sparisoma,Scaridae,Perciformes,64,2,0.037,2.905,Herbivore,NA,64,FishBase,USVI
+145,Spotted Drum,Equetus punctatus,Equetus,Sciaenidae,Perciformes,27,3.5,0.0011,3.844,Invertivore,-6.8124,27,FishBase,Mean for Genus
+146,Reef Croaker,Odontoscion dentex,Odontoscion,Sciaenidae,Perciformes,30,3.5,0.015,3.0073,Carnivore,-4.9854,30,Bohnsack & Harper 1988,S Florida
+147,Highhat,Pareques acuminatus,Pareques,Sciaenidae,Perciformes,23,3.6,0.0087,3.202,Invertivore,-4.74443,23,Bohnsack & Harper,S Florida
+148,Cero,Scomberomorus regalis,Scomberomorus,Scombridae,Perciformes,183,4.5,0.0202,2.8,Piscivore,NA,183,FishBase,Cuba
+149,Lionfish,Pterois volitans,Pterois,Scorpaenidae,Scorpaeniformes,38,4.5,0.00497,3.291,Piscivore,NA,38,FishBase,Mean for Family
+150,Spotted Scorpionfish,Scorpaena plumieri,Scorpaena,Scorpaenidae,Scorpaeniformes,45,3.8,0.0244,2.9486,Carnivore,-4.5626,45,Bohnsack & Harper 1988,S Florida
+151,Graysby,Cephalopholis cruentata,Cephalopholis,Serranidae,Perciformes,43,4.2,0.0121,3.082,Carnivore,NA,43,FishBase,Curacao
+152,Coney,Cephalopholis fulva,Cephalopholis,Serranidae,Perciformes,41,3.9,0.0223,2.933,Carnivore,NA,41,FishBase,Puerto Rico
+153,Rock Hind,Epinephelus adscensionis,Epinephelus,Serranidae,Perciformes,61,3.5,0.0153,3,Carnivore,-5.068,61,Bohnsack & Harper,S Florida
+154,Red Hind,Epinephelus guttatus,Epinephelus,Serranidae,Perciformes,76,3.9,0.036,2.839,Carnivore,-5.068,76,Bohnsack & Harper 1988,Puerto Rico
+155,Red Grouper,Epinephelus morio,Epinephelus,Serranidae,Perciformes,125,3.8,0.0367,2.929,Carnivore,-4.9464,125,Bohnsack & Harper 1988,S Florida
+156,Yellowtail Hamlet,Hypoplectrus chlorurus,Hypoplectrus,Serranidae,Perciformes,13,3.8,0.0099,3.111,Carnivore,-5.1419,13,Bohnsack & Harper 1988,NA
+157,Blue Hamlet,Hypoplectrus gemma,Hypoplectrus,Serranidae,Perciformes,13,NA,0.0099,3.11,Carnivore,-5.1419,13,Bohnsack & Harper 1988,S Florida
+158,Indigo Hamlet,Hypoplectrus indigo,Hypoplectrus,Serranidae,Perciformes,14,NA,0.0099,3.1818,Carnivore,-5.1419,14,Bohnsack & Harper 1988,S Florida
+159,Black Hamlet,Hypoplectrus nigricans,Hypoplectrus,Serranidae,Perciformes,15,4,0.0099,3.1818,Carnivore,-5.1419,15,Bohnsack & Harper 1988,S Florida
+160,Barred Hamlet,Hypoplectrus puella,Hypoplectrus,Serranidae,Perciformes,15,3.7,0.0099,3.1818,Carnivore,-5.1419,15,Bohnsack & Harper 1988,S Florida
+161,Hamlet species,Hypoplectrus sp.,Hypoplectrus,Serranidae,Perciformes,15,NA,0.0099,3.1818,Carnivore,-5.1419,15,Bohnsack & Harper 1988,S Florida
+162,Butter Hamlet,Hypoplectrus unicolor,Hypoplectrus,Serranidae,Perciformes,13,3.97,0.0099,3.1818,Carnivore,-5.1419,13,Bohnsack & Harper 1988,S Florida
+163,Black Grouper,Mycteroperca bonaci,Mycteroperca,Serranidae,Perciformes,150,4.5,0.0082,3.14,Piscivore,-5.3696,150,FishBase,Cuba
+164,Gag Grouper,Mycteroperca microlepis,Mycteroperca,Serranidae,Perciformes,145,3.7,0.0263,3.03,Carnivore,NA,145,FishBase,S Florida
+165,Greater Soapfish,Rypticus saponaceus,Rypticus,Serranidae,Perciformes,35,4.1,0.0153,3.1124,Carnivore,-5.068,35,Bohnsack & Harper 1988,S Florida
+166,Lantern Bass,Serranus baldwini,Serranus,Serranidae,Perciformes,12,NA,0.0128,3.0475,Carnivore,-4.8862,12,Bohnsack & Harper 1988,"S Florida, n=1"
+167,Tobaccofish,Serranus tabacarius,Serranus,Serranidae,Perciformes,22,4.2,0.0193,2.8511,Piscivore,-4.8862,22,Bohnsack & Harper 1988,NA
+168,Harlequin Bass,Serranus tigrinus,Serranus,Serranidae,Perciformes,29,3.7,0.0145,3.0475,Carnivore,-4.8862,29,Bohnsack & Harper 1988,S Florida
+169,Sheepshead,Archosargus probatocephalus,Archosargus,Sparidae,Perciformes,NA,NA,0.015,3.085,Invertivore,NA,NA,NA,NA
+170,Sea Bream,Archosargus rhomboidalis,Archosargus,Sparidae,Perciformes,33,2.2,0.0322,3.072,Omnivore,NA,33,FishBase,Gulf of Mexico
+171,Knobbed Porgy,Calamus nodosus,Calamus,Sparidae,Perciformes,54,NA,0.0077,3.13,Invertivore,NA,54,FishBase,N & S Carolina
+172,Pluma Porgy,Calamus penna,Calamus,Sparidae,Perciformes,37,3.3,0.0178,3.11,Invertivore,NA,37,FishBase,Cuba
+173,Porgy sp.,Calamus sp.,Calamus,Sparidae,Perciformes,76,3.2,NA,NA,Invertivore,NA,76,NA,NA
+174,Barracuda,Sphyraena barracuda,Sphyraena,Sphyraenidae,Perciformes,200,4.5,0.0063,3,Piscivore,NA,200,FishBase,Cuba
+175,Inshore lizardfish,Synodus foetens,Synodus,Synodontidae,Aulopiformes,NA,NA,0.00769,2.946,Piscivore,NA,NA,NA,NA
+176,Sand Diver,Synodus intermedius,Synodus,Synodontidae,Aulopiformes,46,4.4,0.0099,2.999,Piscivore,-5.002,46,Bohnsack & Harper 1988,S Florida
+177,Red Lizardfish,Synodus synodus,Synodus,Synodontidae,Aulopiformes,NA,NA,0.004,3.19,Piscivore,NA,NA,NA,NA
+178,Sharpnose Puffer,Canthigaster rostrata,Canthigaster,Tetraodontidae,Tetraodontiformes,12,3,0.0197,2.9174,Omnivore,-3.9271,12,FishBase,Mean for Genus
+179,Bandtail Puffer,Sphoeroides spengleri,Sphoeroides,Tetraodontidae,Tetraodontiformes,30,3.2,0.0107,3.267,Omnivore,NA,30,Bohnsack & Harper 1988,S Florida
+180,Lofty Triplefin Blenny,Enneanectes altivelis,Enneanectes,Tripterygiidae,Perciformes,NA,NA,0.0141,3.05,NA,NA,NA,NA,NA
+181,Yellow Stingray,Urobatis jamaicensis,Urobatis,Urolophidae,Rajiformes,76,3.6,0.0072,3.0826,Carnivore,-5.2244,76,Bohnsack & Harper 1988,S Florida
+182,Spanish Grunt,Haemulon macrostomum,Haemulon,Haemulidae,Perciformes,43,3.3,0.0176,3.06,Invertivore,NA,43,FishBase,Jamaica
+183,Saucereye Porgy,Calamus calamus,Calamus,Sparidae,Perciformes,56,3.3,0.0429,2.801,Invertivore,-3.1489,56,FishBase,Southern Florida
+184,Brassy chub,Kyphosus vaigiensis,NA,Kyphosidae,Perciformes,70,NA,0.031,2.93,Herbivore,NA,NA,NA,NA
+185,Topsail chub,Kyphosus cinerascens,NA,Kyphosidae,Perciformes,NA,NA,0.0306,2.94,Herbivore,NA,NA,NA,NA
+186,Dog Snapper,Lutjanus jocu,Lutjanus,Lutjanidae,Perciformes,128,4.3,0.0085,3.2,Carnivore,NA,128,FishBase,Cuba
+187,Grouper sp.,Epinephelus spp.,Epinephelus,Serranidae,Perciformes,250,NA,0.036,2.839,Carnivore,-5.4164,250,Bohnsack & Harper 1988,S Florida
+188,Blue spotted cornetfish,Fistularia commersonii,NA,NA,NA,NA,0.112,2.54,NA,NA,NA,NA,NA,NA
+189,Redlip Blenny,Ophioblennius macclurei,Ophioblennius,Blenniidae,Perciformes,12,NA,0.0324,2.3791,Herbivore,-3.868,12,Bohnsack & Harper 1988,S Florida
+190,Tarpon,Megalops atlanticus,Megalops,Elopidae,Elopiformes,250,3.6,0.012,2.9838,Carnivore,-7.9156,250,Bohnsack & Harper 1988,S Florida
+191,Mackerel Scad,Decapterus macarellus,Decapterus,Carangidae,Perciformes,25,3.4,0.0078,3.14,Planktivore,NA,25,Fishbase,"Cape Verde, n=190"
+192,Reef shark,Carcharhinus perezi,Carcharhinus,Carcharhinidae,Carcharhiniformes,300,4.5,0.0271,3,Piscivore,NA,300,FishBase,n=1
+193,Spotted eagle ray,Aetobatus narinari,NA,NA,Myliobatiformes,0.00586,3.13,NA,NA,NA,NA,NA,NA,NA
+194,Nassau Grouper,Epinephelus striatus,Epinephelus,Serranidae,Perciformes,122,4,0.0198,2.97,Carnivore,NA,122,FishBase,Cuba
+195,Dusky Squirrelfish,Sargocentron vexillarium,Sargocentron,Holocentridae,Beryciformes,18,3.5,0.0232,2.9554,Invertivore,NA,18,FishBase,Mean for Genus
