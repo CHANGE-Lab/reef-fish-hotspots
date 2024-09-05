@@ -2,7 +2,7 @@
 
 This repo is home to code/docs and data for an analysis of the effect of coral reef structural complexity on fish-derived nutrient supplies (Nitrogen and Phosphorous) and resulting coral reef productivity. 
 
-🪸 We pair multiple metrics of reef structural complexity derived from structure-from-motion photogrammetry (relief, vector ruggedness) with estimates of reef fish nutrient supply (mg N and P) from bioenergetics models (Burkepilet et al., 2013) and macroalgal nutrient content from field sampling (tissue %N and %P) to explore patterns of fish-derived nutrient supply within continuous coral reef environments. 
+We pair multiple metrics of reef structural complexity derived from structure-from-motion photogrammetry (relief, vector ruggedness) with estimates of reef fish nutrient supply (mg N and P) from bioenergetics models (Burkepilet et al., 2013) and macroalgal nutrient content from field sampling (tissue %N and %P) to explore patterns of fish-derived nutrient supply within continuous coral reef environments. 
 
 💻 Associated paper DOI: will be uploaded upon publication
 
